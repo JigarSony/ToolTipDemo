@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6068" started-at="2019-09-15T15:33:18Z" finished-at="2019-09-15T15:33:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6068" started-at="2019-09-15T15:33:18Z" finished-at="2019-09-15T15:33:24Z">
+      <class name="tooltip.HelptextClass">
+        <test-method status="PASS" signature="TooltipTest()[pri:0, instance:tooltip.HelptextClass@1e88b3c]" name="TooltipTest" duration-ms="6052" started-at="2019-09-15T15:33:18Z" finished-at="2019-09-15T15:33:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TooltipTest -->
+      </class> <!-- tooltip.HelptextClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
